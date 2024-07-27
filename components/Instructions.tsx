@@ -4,7 +4,7 @@ const Instructions = () => {
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="grid items-stretch gap-y-10 md:grid-cols-2 md:gap-x-20">
           <div className="relative grid grid-cols-2 gap-6 mt-10 md:mt-0">
-            <div className="overflow-hidden aspect-w-3 aspect-h-4">
+            {/* <div className="overflow-hidden aspect-w-3 aspect-h-4">
               <img
                 className="object-cover object-top origin-top scale-150"
                 src="https://cdn.rareblocks.xyz/collection/celebration/images/features/2/team-work.jpg"
@@ -44,7 +44,7 @@ const Instructions = () => {
                 src="https://cdn.rareblocks.xyz/collection/celebration/images/features/2/round-text.png"
                 alt=""
               />
-            </div>
+            </div> */}
           </div>
 
           <div className="flex flex-col items-start xl:px-16">

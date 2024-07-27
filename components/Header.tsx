@@ -83,7 +83,7 @@ const Header = () => {
                 className="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"
               >
                 {" "}
-                Pricing{" "}
+                About{" "}
               </a>
 
               <div className="w-px h-5 bg-black/20"></div>
@@ -94,7 +94,7 @@ const Header = () => {
                 className="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"
               >
                 {" "}
-                Log in{" "}
+                FAQ{" "}
               </a>
 
               <a

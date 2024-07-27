@@ -1,9 +1,9 @@
 const Footer = () => {
   return (
     <section className="bg-[url('/overlay-png.webp')]">
-      <div className="py-10 bg-gray-900 sm:pt-16 lg:pt-24">
+      <div className="py-10 bg-gray-900 sm:pt-16 lg:pt-10">
         <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-          <div className="grid grid-cols-2 gap-x-5 gap-y-12 md:grid-cols-4 md:gap-x-12">
+          {/*   <div className="grid grid-cols-2 gap-x-5 gap-y-12 md:grid-cols-4 md:gap-x-12">
             <div>
               <p className="text-base text-gray-500">Company</p>
 
@@ -193,7 +193,7 @@ const Footer = () => {
             </div>
           </div>
 
-          <hr className="mt-16 mb-10 border-gray-800" />
+          <hr className="mt-16 mb-10 border-gray-800" /> */}
 
           <div className="flex flex-wrap items-center justify-between">
             <img
@@ -279,7 +279,7 @@ const Footer = () => {
             </ul>
 
             <p className="w-full mt-8 text-sm text-center text-gray-100 md:mt-0 md:w-auto md:order-2">
-              © Copyright 2021, All Rights Reserved by Postcraft
+              © Copyright 2024, All Rights Reserved by faceshapedetector.net
             </p>
           </div>
         </div>
