@@ -5,12 +5,11 @@ const Header = () => {
         <div className="px-4 mx-auto sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16 lg:h-20">
             <div className="flex-shrink-0">
-              <a href="#" title="" className="flex">
-                <img
-                  className="w-auto h-8"
-                  src="https://cdn.rareblocks.xyz/collection/celebration/images/hero/2/logo.svg"
-                  alt=""
-                />
+              <a href="#" title="" className="flex items-center">
+                <img className="w-auto h-12" src="fsd-logo-1.png" alt="" />{" "}
+                <span className="text-black font-extrabold text-2xl pl-2">
+                  FaceShapeDetector
+                </span>
               </a>
             </div>
 

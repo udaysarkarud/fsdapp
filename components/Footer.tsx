@@ -196,11 +196,12 @@ const Footer = () => {
           <hr className="mt-16 mb-10 border-gray-800" /> */}
 
           <div className="flex flex-wrap items-center justify-between">
-            <img
-              className="h-8 auto md:order-1"
-              src="https://cdn.rareblocks.xyz/collection/celebration/images/logo-alt.svg"
-              alt=""
-            />
+            <div className="flex items-center">
+              <img className="w-auto h-12" src="fsd-logo-1.png" alt="" />
+              <span className="text-white font-extrabold text-2xl pl-2">
+                FaceShapeDetector
+              </span>
+            </div>
 
             <ul className="flex items-center space-x-3 md:order-3">
               <li>
