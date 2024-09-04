@@ -58,7 +58,7 @@ const ImageUploadForm = () => {
               {faceType}
             </span>
             <br />
-            Your Face Shape is
+            is your face type
           </h3>
         )}
       </div>
